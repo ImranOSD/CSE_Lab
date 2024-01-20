@@ -7,6 +7,6 @@ int main()
  cin>> num1 >> num2;
  sum = num1 + num2;
  cout << sum;
-
+//imran
 return 0;
 }
